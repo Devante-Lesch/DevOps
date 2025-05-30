@@ -27,7 +27,7 @@
 
 ------------------------------------------------
 
-2. Agile Methodology
+#### 2. Agile Methodology
 -----------------
    iterative and flexible approach
    sprint meetings
@@ -38,14 +38,14 @@
 4. Team collaboration 
 5. Improving Quality --> continuous testing 
 
-Agile Disadvantages
+#### Agile Disadvantages
 ----------------
 
 1. Less predictability  --->  Budget and Time
 2. Required Experience teams ---> Decision making
 3. Measuring progress ---> Agile focuses iterative method test develop
  
-DevOps Methodology
+#### DevOps Methodology
 -----------------
 
 Dev + Ops
@@ -53,7 +53,7 @@ Dev + Ops
 Fastest Delivery 
 Scalability ----> Easy to Scale up 
 
-DevOps Stages
+#### DevOps Stages
 ------------
 
 1. Source code management (git etc )
@@ -64,12 +64,12 @@ DevOps Stages
 6. Continuous Testing 
 7. Continuous Feedback
 
-1. Source code management 
+#### 1. Source code management 
 ----------------------
 Version Control 
 * Git & GitHub
 
-Version Control  - It is the process of Management System, changes records
+#### Version Control  - It is the process of Management System, changes records
 
 Eg 
 
@@ -85,7 +85,7 @@ WhatsApp ----> 2024  ---> V13.1
 GIT -----> Version Control
 GITHUB  ----> Remote Repo
 
-Types of Version control system
+#### Types of Version control system
 ---------------------------
 1. Local version control system
 Computer ----DB
@@ -96,7 +96,7 @@ Computer ----DB
 3. Distributed Version Control System 
 ------------------------------
 
-Git Components
+#### Git Components
 -------------
 1. Working dir  -----> Local lap
 2. Staging Area  ----> Buffering area
